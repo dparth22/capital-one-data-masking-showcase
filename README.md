@@ -2,7 +2,7 @@
 
 A Django-based data portal built to manage and analyze customer records containing PII and financial data, developed as a 4-person senior capstone project sponsored by Capital One. Presented at VCU's Capstone Expo 2026.
 
-**The full source code lives in a private repository** (created through GitHub Classroom and locked to the course organization), so this repo exists to showcase the project through a demo video and a written breakdown of my specific contributions.
+**The full source code lives in a private repository** (created through GitHub Classroom and locked to the course organization), so this repo exists to showcase the project through a demo video and a written breakdown of my specific contributions. Happy to walk through the full project live or share additional access if needed, just reach out.
 
 ## Demo Video
 
